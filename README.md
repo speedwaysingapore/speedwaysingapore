@@ -1,4 +1,4 @@
-# 👋Hello!
+<p align="center"><h1>👋Hello!</h1></p>
 I really like Python, HTML and Scratch.
 
 My Scratch account is [Knightbot63](https://scratch.mit.edu/users/Knightbot63)
