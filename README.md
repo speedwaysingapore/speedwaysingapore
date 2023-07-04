@@ -1,13 +1,7 @@
 <p align="center"><h1>👋Hello!</h1></p>
 I really like Python, HTML and Scratch.
 
-My Scratch account is [Knightbot63](https://scratch.mit.edu/users/Knightbot63)
-
-# My Statistics:
-## Github:
-[![speedwaysingapore's GitHub stats](https://github-readme-stats.vercel.app/api?username=speedwaysingapore)](https://github.com/anuraghazra/github-readme-stats)
-## Scratch:
-1.8K+ Followers *(how do I make it live here?)*
+My Scratch account is [Knightbot63](https://scratch.mit.edu/users/Knightbot63) where I post most of my things.
 
 # What I'm working On
-Source Codes, Scratch Projects, Python Projects, Scripts and more!
+Scratch Projects but main focus now is Cobra. A social media website for everyone!
