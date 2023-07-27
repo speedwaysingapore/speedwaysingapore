@@ -7,3 +7,5 @@ My Scratch account is [Knightbot63](https://scratch.mit.edu/users/Knightbot63) w
 Main focus now is Lightflow. A social media website for everyone!
 
 I have 9th grade soon :/
+MrBeet Sub Count:
+<iframe height="180px" width="500px" frameborder="0" src="https://livecounts.nl/embed/#!/UCX6OQ3DkcsbYNE6H8uQQuVA" allowfullscreen></iframe>
