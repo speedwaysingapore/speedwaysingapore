@@ -9,8 +9,7 @@ I am in 9th Grade.<br>
 I am 14 years old.<br>
 he/him pronouns.<br>
 <br><br>
-I also have gotten up to 8 Super Expert Clears (Picture is outdated, my current score is 8 with a Global Rank of 2021):<br>
-![Super Expert](https://github.com/RadicalStickman/RadicalStickman/assets/125277461/ab3fe5bb-36a9-460e-972f-12fed28446f6)
+I also have gotten up to 8 Super Expert Clears with a Global Rank of 2021<br>
 
 
 <h2 align="center">All Platforms</h2>
