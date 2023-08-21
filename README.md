@@ -3,11 +3,15 @@ I am RadicalStickman or Radical and I like to code! Thanks for stopping by, chec
 Most people call me a demon because I play Super Mario Maker 2 a bit much and create difficult levels. Here's my ID: HQ6-63D-94G
 
 <h2 align="center">⛧All About Me!</h2>
-I play a lot of Super Mario Maker 2 (1000+ hours)
-I draw some pixel art.
-I am in 9th Grade.
-I am 14 years old.
-he/him pronouns.
+I play a lot of Super Mario Maker 2 (1000+ hours)<br>
+I draw some pixel art.<br>
+I am in 9th Grade.<br>
+I am 14 years old.<br>
+he/him pronouns.<br>
+<br><br>
+I also have gotten up to 8 Super Expert Clears (Picture is outdated, my current score is 8 with a Global Rank of 2021):<br>
+![Super Expert](https://github.com/RadicalStickman/RadicalStickman/assets/125277461/ab3fe5bb-36a9-460e-972f-12fed28446f6)
+
 
 <h2 align="center">All Platforms</h2>
 
