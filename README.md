@@ -11,7 +11,13 @@ I am 14 years old.<br>
 he/him pronouns.<br>
 <br><br>
 I also have gotten up to 8 Super Expert Clears with a Global Rank of 2021<br>
+<h2 align="center">Super Mario Maker 2 Endless Challenge Stats</h2>
 
+*note, these may be outdated*<br>
+Endless Easy: 1121<br>
+Endless Normal: 180 *1000 Goal*<br>
+Endless Expert: 14 *500 Goal*<br>
+Endless Super Expert: 8 *1000 Goal + challenging*<br>
 
 <h2 align="center">All Platforms</h2>
 
