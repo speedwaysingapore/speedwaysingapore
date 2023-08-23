@@ -1,6 +1,7 @@
 <h2 align="center">👋Hello!</h2>
-I am RadicalStickman or Radical and I like to code! Thanks for stopping by, check out the links below for my socials!<br>
-Most people call me a demon because I play Super Mario Maker 2 a bit much and create difficult levels. Here's my ID: HQ6-63D-94G
+I am Radical and I like to code! Thanks for stopping by, check out the links below for my socials!<br>
+Most people call me a demon because I play Super Mario Maker 2 a bit much and create difficult levels. Here's my ID: HQ6-63D-94G<br>
+Yes, the Profile Picture of a Stickman will be remembered as of 8/20/23. I changed all social platforms pfps to Iscream from Chikn Nuggit (Animation I watch)
 
 <h2 align="center">⛧All About Me!</h2>
 I play a lot of Super Mario Maker 2 (1000+ hours)<br>
