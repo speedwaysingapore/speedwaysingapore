@@ -5,7 +5,7 @@ Super Mario Maker 2 ID: HQ6-63D-94G (Currently Inactive.)<br>
 <h2 align="center">All About Me!</h2>
 I play a lot of Super Mario Maker 2 (1100+ hours)<br>
 I draw some pixel art. (For games)<br>
-I play Animal Crossing: New Horizons and currently have ~352K+ Nook Miles, Roughly 3K a day without time-travel<br>
+I play Animal Crossing: New Horizons and currently have ~416K+ Nook Miles, Roughly 3K a day without time-travel<br>
 <h2 align="center">All Platforms</h2>
 
 ~~[Scratch (Former Platform)](https://scratch.mit.edu/users/Knightbot63)~~ <br>
