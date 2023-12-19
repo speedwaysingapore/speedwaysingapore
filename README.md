@@ -12,3 +12,15 @@ I play Animal Crossing: New Horizons and currently have ~502K+ Nook Miles, Rough
 [Replit](https://replit.com/@Knightbot63) <br>
 [GitHub](https://github.com/RadicalOfficial) <br>
 [Subscribe to MrBeast so he can pass T-Series!!](https://youtube.com/@MrBeast/)
+
+<h2 align="center">Some Random things I wanted to put here.</h2>
+Please subscribe to MrBeast please, he must pass T-Series so that way PewDiePie is happy.
+
+Link's Awakening is a good game, try it.
+
+I am 14 and go by he/him.
+
+Wait, how is this not random, hmm?
+
+I am a self-taught programmer. I use these<br>
+![Python](https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python)![html](https://img.shields.io/badge/html-gray?style=for-the-badge&logo=html5)![css](https://img.shields.io/badge/css-gray?style=for-the-badge&logo=css3)![javascript](https://img.shields.io/badge/javascript-gray?style=for-the-badge&logo=javascript)![scratch ](https://img.shields.io/badge/scratch-gray?style=for-the-badge&logo=scratch)![replit](https://img.shields.io/badge/replit-gray?style=for-the-badge&logo=replit)![piskel](https://img.shields.io/badge/piskel-gray?style=for-the-badge&logo=piskel)![discord](https://img.shields.io/badge/discord-gray?style=for-the-badge&logo=discord)
