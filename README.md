@@ -25,7 +25,21 @@ Wait, how is this not random, hmm?
 I am a self-taught programmer. I use these<br>
 ![Python](https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python)![html](https://img.shields.io/badge/html-gray?style=for-the-badge&logo=html5)![css](https://img.shields.io/badge/css-gray?style=for-the-badge&logo=css3)![javascript](https://img.shields.io/badge/javascript-gray?style=for-the-badge&logo=javascript)![scratch ](https://img.shields.io/badge/scratch-gray?style=for-the-badge&logo=scratch)![replit](https://img.shields.io/badge/replit-gray?style=for-the-badge&logo=replit)![piskel](https://img.shields.io/badge/piskel-gray?style=for-the-badge&logo=piskel)![discord](https://img.shields.io/badge/discord-gray?style=for-the-badge&logo=discord)
 
-
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
 Maybe if you stop scrolling, you'll figure out what I'm working on.
 
 
