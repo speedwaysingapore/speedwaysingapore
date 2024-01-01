@@ -5,7 +5,7 @@ Super Mario Maker 2 ID: HQ6-63D-94G (Currently Inactive.)<br>
 <h2 align="center">All About Me!</h2>
 I play a lot of Super Mario Maker 2 (1150+ hours)<br>
 I draw some pixel art. (For games)<br>
-I play Animal Crossing: New Horizons and currently have ~555K+ Nook Miles, Roughly 3K a day without time-travel<br>
+I play Animal Crossing: New Horizons and currently have 560K+ Nook Miles, Roughly 3K a day without time-travel<br>
 <h2 align="center">All Platforms</h2>
 
 [Scratch (Inactive)](https://scratch.mit.edu/users/Knightbot63) <br>
@@ -14,7 +14,7 @@ I play Animal Crossing: New Horizons and currently have ~555K+ Nook Miles, Rough
 [Subscribe to MrBeast so he can pass T-Series!!](https://youtube.com/@MrBeast/)
 
 <h2 align="center">Some Random things I wanted to put here.</h2>
-Please subscribe to MrBeast please, he must pass T-Series so that way PewDiePie is happy.
+Please subscribe to MrBeast please, he must pass.
 
 Link's Awakening is a good game, try it.
 
