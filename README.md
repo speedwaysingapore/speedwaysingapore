@@ -5,7 +5,7 @@ Super Mario Maker 2 ID: HQ6-63D-94G (Currently Inactive.)<br>
 <h2 align="center">All About Me!</h2>
 I play a lot of Super Mario Maker 2 (1150+ hours)<br>
 I draw some pixel art. (For games)<br>
-I play Animal Crossing: New Horizons and currently have 560K+ Nook Miles, Roughly 3K a day without time-travel<br>
+I play Animal Crossing: New Horizons and currently have 610K+ Nook Miles, Roughly 3K a day without time-travel<br>
 <h2 align="center">All Platforms</h2>
 
 [Scratch (Inactive)](https://scratch.mit.edu/users/Knightbot63) <br>
@@ -37367,9 +37367,4 @@ Maybe if you stop scrolling, you'll figure out what I'm working on.
 
 
 <!--- 
-Upcoming Game Name: Raven: The Demon Soul
-Release: Unknown
-Notes: You're ironic. HAPPY NOW VIEWER? YOU JUST HAD TO DO THIS
-
-Is that true? Figure it out yourself you nerds.
 --->
