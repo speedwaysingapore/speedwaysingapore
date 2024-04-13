@@ -40,4 +40,26 @@ I want to link my unmoderated chat area username but that'll make my github acco
 
 Thank you for reading this!
 
-# Hola
+# ¡Hola!
+Bienvenido a mi cuenta de GitHub. Esta cuenta será usada para compartir WADs de Wii *(hechos vía python si es posible.)*, código para mis cosas replit ¡y más!<br><br>
+
+<p align="center"># Mi Web Oficial:<br>
+https://radicalofficial.github.io/</p>
+
+# Lenguajes que uso
+![HTML](https://img.shields.io/badge/-HTML-000000?logo=html5&logoColor=orange&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-000000?logo=javascript&logoColor=yellow&style=for-the-badge)
+![Python](https://img.shields.io/badge/-PYTHON-000000?logo=python&style=for-the-badge)
+![Scratch](https://img.shields.io/badge/-SCRATCH-000000?logo=scratch&logoColor=yellow&style=for-the-badge)
+![Node JS](https://img.shields.io/badge/-A_BIT_OF_NODE.JS-000000?logo=node.js&style=for-the-badge)
+
+# En fin...
+Estos son los proyectos en los que estoy trabajando actualmente:
+**Un RPG** - El nombre no puede ser revelado hasta el lanzamiento.
+<br><br>
+**El 20 de abril de 2024, Stickman Quest cumpliría oficialmente UN año en pausa. Convirtiéndolo en el proyecto más largo pausado/retenido que he tenido.**
+
+Quiero enlazar mi nombre de usuario del área de chat sin moderar, pero eso hará que mi cuenta de github no esté permitida en Scratch.<br>
+¡Gracias por leer esto!
+
+Traducción realizada con la versión gratuita del traductor DeepL.com
