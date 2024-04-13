@@ -81,7 +81,7 @@ https://radicalofficial.github.io/</p>
 Dies sind die Projekte, an denen ich derzeit arbeite:<br>**Ein RPG** - Name wird erst bei Veröffentlichung bekannt gegeben.
 <br><br>
 **Am 20. April 2024 wird Stickman Quest offiziell EIN Jahr pausieren. Damit ist es das am längsten pausierte/unterbrochene Projekt, das ich je hatte.
-Ich würde gerne meinen unmoderierten Chatbereich-Benutzernamen verlinken, aber das würde meinen Github-Account auf Scratch unzulässig machen.**
+Ich würde gerne meinen unmoderierten Chatbereich-Benutzernamen verlinken, aber das würde meinen Github-Account auf Scratch unzulässig machen.**<br>
 Danke fürs Lesen!
 
 Die Übersetzung wurde mit der kostenlosen Version des Übersetzers DeepL.com erstellt.
