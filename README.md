@@ -54,7 +54,7 @@ https://radicalofficial.github.io/</p>
 ![Node JS](https://img.shields.io/badge/-A_BIT_OF_NODE.JS-000000?logo=node.js&style=for-the-badge)
 
 # En fin...
-Estos son los proyectos en los que estoy trabajando actualmente:
+Estos son los proyectos en los que estoy trabajando actualmente:<br>
 **Un RPG** - El nombre no puede ser revelado hasta el lanzamiento.
 <br><br>
 **El 20 de abril de 2024, Stickman Quest cumpliría oficialmente UN año en pausa. Convirtiéndolo en el proyecto más largo pausado/retenido que he tenido.**
@@ -78,9 +78,10 @@ https://radicalofficial.github.io/</p>
 ![Node JS](https://img.shields.io/badge/-A_BIT_OF_NODE.JS-000000?logo=node.js&style=for-the-badge)
   
 # Wie auch immer...
-Dies sind die Projekte, an denen ich derzeit arbeite: Ein RPG - Name wird erst bei Veröffentlichung bekannt gegeben.
-
-Am 20. April 2024 wird Stickman Quest offiziell EIN Jahr pausieren. Damit ist es das am längsten pausierte/unterbrochene Projekt, das ich je hatte.
-Ich würde gerne meinen unmoderierten Chatbereich-Benutzernamen verlinken, aber das würde meinen Github-Account auf Scratch unzulässig machen.
+Dies sind die Projekte, an denen ich derzeit arbeite:<br>**Ein RPG** - Name wird erst bei Veröffentlichung bekannt gegeben.
+<br><br>
+**Am 20. April 2024 wird Stickman Quest offiziell EIN Jahr pausieren. Damit ist es das am längsten pausierte/unterbrochene Projekt, das ich je hatte.
+Ich würde gerne meinen unmoderierten Chatbereich-Benutzernamen verlinken, aber das würde meinen Github-Account auf Scratch unzulässig machen.**
 Danke fürs Lesen!
+
 Die Übersetzung wurde mit der kostenlosen Version des Übersetzers DeepL.com erstellt.
