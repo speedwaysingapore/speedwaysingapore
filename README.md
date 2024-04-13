@@ -1,5 +1,5 @@
 # Hello!
-<p align="center">Translated Versions:</p><p align="center"><a href="Hola">Spanish</a></p>
+<p align="center">Translated Versions:</p><p align="center"><a href="#Hola">Spanish</a></p>
 Welcome to my GitHub account. This account would be used for sharing Wii WADs *(made via python if possible.)*, code for my replit things and more!
 <br><br>
 <p align="center"># My Official Website:<br>
