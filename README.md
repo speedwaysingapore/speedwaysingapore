@@ -1,5 +1,5 @@
 # Hello!
-<p align="center">Translated Versions:</p><p align="center"><a href="#Hola">Spanish</a></p>
+<p align="center">Translated Versions:<br><a href="#Hola">Spanish</a> - <a href="#Willkommen">German</a></p><br>
 Welcome to my GitHub account. This account would be used for sharing Wii WADs *(made via python if possible.)*, code for my replit things and more!
 <br><br>
 <p align="center"># My Official Website:<br>
@@ -63,3 +63,24 @@ Quiero enlazar mi nombre de usuario del área de chat sin moderar, pero eso har�
 ¡Gracias por leer esto!
 
 Traducción realizada con la versión gratuita del traductor DeepL.com
+
+# Willkommen!
+Dieser Account wird verwendet, um Wii WADs (wenn möglich mit Python erstellt), Code für meine Replit-Sachen und mehr zu teilen!
+
+<p align="center"># Meine offizielle Website:<br>
+https://radicalofficial.github.io/</p>
+
+# Sprachen, die ich benutze
+![HTML](https://img.shields.io/badge/-HTML-000000?logo=html5&logoColor=orange&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-000000?logo=javascript&logoColor=yellow&style=for-the-badge)
+![Python](https://img.shields.io/badge/-PYTHON-000000?logo=python&style=for-the-badge)
+![Scratch](https://img.shields.io/badge/-SCRATCH-000000?logo=scratch&logoColor=yellow&style=for-the-badge)
+![Node JS](https://img.shields.io/badge/-A_BIT_OF_NODE.JS-000000?logo=node.js&style=for-the-badge)
+  
+# Wie auch immer...
+Dies sind die Projekte, an denen ich derzeit arbeite: Ein RPG - Name wird erst bei Veröffentlichung bekannt gegeben.
+
+Am 20. April 2024 wird Stickman Quest offiziell EIN Jahr pausieren. Damit ist es das am längsten pausierte/unterbrochene Projekt, das ich je hatte.
+Ich würde gerne meinen unmoderierten Chatbereich-Benutzernamen verlinken, aber das würde meinen Github-Account auf Scratch unzulässig machen.
+Danke fürs Lesen!
+Die Übersetzung wurde mit der kostenlosen Version des Übersetzers DeepL.com erstellt.
