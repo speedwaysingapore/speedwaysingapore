@@ -5,6 +5,9 @@ Welcome to my GitHub account. This account would be used for sharing Wii WADs *(
 <p align="center"># My Official Website:<br>
 https://radicalofficial.github.io/</p>
 
+### Found me on Fall Guys?
+My username is "RADICALOFFICIAL." and I play fall guys almost every day. I'm mostly in Solos Shuffle.
+
 # Languages I use
 ![HTML](https://img.shields.io/badge/-HTML-000000?logo=html5&logoColor=orange&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-000000?logo=javascript&logoColor=yellow&style=for-the-badge)
