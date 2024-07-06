@@ -14,6 +14,10 @@ As of 2023 of September, Stickman Quest is no longer being worked on. No, the pr
 **Music composing is alright. However, I can't seem to get the tone of the music for the maps and miscellaneous things. I'm only good at sound effects and not music. You'll most likely hear music from different games instead of my own. Preferably, for ears sake.** <br><br>
 **For art, I am decent at the pixel art. It isn't the best but it is good enough that the basic player can enjoy. Some arts will be from different games. Credits will be into there.** <br><br>
 
+
+# Other
+My music is made in FamiTracker 2a03 + VRC6 ~+ SunSoft 5B
+
 I still remember the time where I made my first pixel art. It was a simple chocolate bar for a shooter game, though it wasn't fitting whatsoever. And then I thought, why not have this as an item in an RPG of some sorts?
 
 # Scratch Account
