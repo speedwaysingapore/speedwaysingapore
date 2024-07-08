@@ -25,3 +25,9 @@ I am not as active as I was on Scratch. I am mainly active on blue robot logo we
 
 Thank you for understanding and reading. Please reach out on the blue robot site of the username *rad7cal*.
 
+# Special Thanks to these users who made it possible
+These users will be on the "Special Thanks" part on the RPG. Whether they worked on the RPG or not, these users made it possible!
+<br><br>
+Glitch
+<br>Nitrox<br>Wolfieboy09<br><br>... and you!
+
