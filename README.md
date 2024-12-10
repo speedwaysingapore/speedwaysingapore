@@ -72,4 +72,28 @@
 ██║    ███████║██║  ██║██║██████╔╝    ██║ ╚████║╚██████╔╝    ██║  ██║██║ ╚████║██████╔╝    ██║ ╚████║╚██████╔╝╚███╔███╔╝    ██║  ██║███████╗███████║    ██║     ██║███████║███████║   ██║   
 ╚═╝    ╚══════╝╚═╝  ╚═╝╚═╝╚═════╝     ╚═╝  ╚═══╝ ╚═════╝     ╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝     ╚═╝  ╚═══╝ ╚═════╝  ╚══╝╚══╝     ╚═╝  ╚═╝╚══════╝╚══════╝    ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝   
                                                                                                                                                                                             
-You're watching Channel 4 News, with primetime Emmy award winning anchor Ron Burgundy and ---- McGee.
+Carnival Chaos 2
+Poison Lab 2
+Blitz Bonanza 2
+Sunset Valley 2
+Press Plant 2
+Radio Revolution 2
+Frantic Future 2
+Magma Madness 2
+Underworld Empire 2
+
+
+Casino Chaos
+Poison Frenzy
+Blitz Bonanza
+Jewel Palace
+Sunset Valley
+Printing Plant
+Scorch Superior
+Underworld Monarch
+Neo Future
+Radio Madness
+Comedy Theatre
+Noir Scape
+Gimmick Factory
+Tuxedo Trouble
